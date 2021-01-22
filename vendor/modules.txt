@@ -1,0 +1,5 @@
+# github.com/joshprzybyszewski/consumable v1.0.0
+## explicit
+github.com/joshprzybyszewski/consumable/papers
+github.com/joshprzybyszewski/consumable/snacks
+github.com/joshprzybyszewski/consumable/toiletpaper
